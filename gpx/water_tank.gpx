@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2020-12-18T17:05:02Z</time></metadata><wpt lat="49.2267569" lon="11.5350516"><name>Gemeindeweiher</name><desc>drinking_water=no
+emergency=water_tank
+name=Gemeindeweiher</desc><link href="http://osm.org/browse/node/305570467"/></wpt><wpt lat="49.8320492" lon="9.9317104"><name>node/440467237</name><desc>emergency=water_tank
+water_tank:volume=75000</desc><link href="http://osm.org/browse/node/440467237"/></wpt><wpt lat="49.5231168" lon="11.3447161"><name>node/1119840341</name><desc>emergency=water_tank
+water_tank:volume=100000</desc><link href="http://osm.org/browse/node/1119840341"/></wpt><wpt lat="49.7203234" lon="11.2220466"><name>node/1788973572</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/1788973572"/></wpt><wpt lat="49.7210705" lon="11.2247185"><name>node/1788973595</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/1788973595"/></wpt><wpt lat="49.5614834" lon="11.3690908"><name>node/1868286935</name><desc>emergency=water_tank
+water_tank:volume=82000</desc><link href="http://osm.org/browse/node/1868286935"/></wpt><wpt lat="49.752991" lon="10.2424858"><name>node/2426971391</name><desc>description=Zisterne Rödelseer Str.
+emergency=water_tank
+fire_hydrant:diameter=Zisterne Rödelseer Str.
+fire_hydrant:position=green
+fire_hydrant:type=underground</desc><link href="http://osm.org/browse/node/2426971391"/></wpt><wpt lat="49.6035759" lon="11.1661278"><name>node/2638421740</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/2638421740"/></wpt><wpt lat="49.6200684" lon="11.0231945"><name>node/2749717431</name><desc>access=private
+emergency=water_tank
+water_tank:volume=30m^2</desc><link href="http://osm.org/browse/node/2749717431"/></wpt><wpt lat="49.5528652" lon="11.2334109"><name>node/3364600221</name><desc>emergency=water_tank
+water_tank:volume=60000</desc><link href="http://osm.org/browse/node/3364600221"/></wpt><wpt lat="49.4012275" lon="9.9377775"><name>node/3400082934</name><desc>emergency=water_tank
+note=Löschwasserbehälter 2x A-Ansaugstutzen
+water_tank:volume=260000</desc><link href="http://osm.org/browse/node/3400082934"/></wpt><wpt lat="49.3990892" lon="9.9326652"><name>node/3400083796</name><desc>emergency=water_tank
+note=Löschwasserbehälter 1x A-Ansaugstutzen
+water_tank:volume=100000</desc><link href="http://osm.org/browse/node/3400083796"/></wpt><wpt lat="49.4270187" lon="9.8920405"><name>node/3400200493</name><desc>emergency=water_tank
+note=Löscwasserbehälter ohne Saugstutzen
+water_tank:volume=100000</desc><link href="http://osm.org/browse/node/3400200493"/></wpt><wpt lat="49.3728998" lon="10.2218181"><name>node/3424607209</name><desc>emergency=water_tank
+water_tank:volume=120000</desc><link href="http://osm.org/browse/node/3424607209"/></wpt><wpt lat="49.395642" lon="10.2339785"><name>node/3425060488</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/3425060488"/></wpt><wpt lat="49.8319499" lon="10.4842642"><name>node/3577365333</name><desc>emergency=water_tank
+note=Löschwasserbehälter
+water_tank:volume=80000</desc><link href="http://osm.org/browse/node/3577365333"/></wpt><wpt lat="49.828756" lon="10.467326"><name>node/3577389269</name><desc>emergency=water_tank
+note=Ansaugung mit TS 8/8 möglich ( Anschluss = A ) 
+water_tank:volume=80000</desc><link href="http://osm.org/browse/node/3577389269"/></wpt><wpt lat="49.8200003" lon="10.4854605"><name>node/3578143970</name><desc>emergency=water_tank
+note=Behälter ist unter Spielplatz mit Ansagstutzen = A
+water_tank:volume=80000</desc><link href="http://osm.org/browse/node/3578143970"/></wpt><wpt lat="49.4436156" lon="11.067952"><name>node/3756821347</name><desc>emergency=water_tank
+fire_hydrant:type=pond
+water_tank:volume=199m³</desc><link href="http://osm.org/browse/node/3756821347"/></wpt><wpt lat="49.5567357" lon="10.7106775"><name>node/3913402237</name><desc>emergency=water_tank
+water_tank:volume=100000</desc><link href="http://osm.org/browse/node/3913402237"/></wpt><wpt lat="49.5558083" lon="10.7149878"><name>node/3913408557</name><desc>emergency=water_tank
+water_tank:volume=80000</desc><link href="http://osm.org/browse/node/3913408557"/></wpt><wpt lat="49.5730362" lon="11.20076"><name>node/3993994081</name><desc>emergency=water_tank
+water_tank:volume=82000</desc><link href="http://osm.org/browse/node/3993994081"/></wpt><wpt lat="49.6430366" lon="11.0716251"><name>node/4050217342</name><desc>emergency=water_tank
+note=A-Sauganschluß
+water_tank:volume=75 m³</desc><link href="http://osm.org/browse/node/4050217342"/></wpt><wpt lat="49.5594413" lon="10.6911508"><name>node/4058389922</name><desc>emergency=water_tank
+water_tank:volume=201</desc><link href="http://osm.org/browse/node/4058389922"/></wpt><wpt lat="49.5828869" lon="11.1907339"><name>node/4063530740</name><desc>emergency=water_tank
+note=Zisterne 2 x Storz A
+water_tank:volume=200000</desc><link href="http://osm.org/browse/node/4063530740"/></wpt><wpt lat="49.6252733" lon="11.1074454"><name>node/4069638015</name><desc>emergency=water_tank
+survey:date=2019-05-22
+water_tank:volume=85 m³</desc><link href="http://osm.org/browse/node/4069638015"/></wpt><wpt lat="49.2571457" lon="10.2368321"><name>node/4069912610</name><desc>emergency=water_tank
+water_tank:volume=250000</desc><link href="http://osm.org/browse/node/4069912610"/></wpt><wpt lat="49.2580662" lon="10.2332815"><name>node/4069912617</name><desc>emergency=water_tank
+water_tank:volume=200000</desc><link href="http://osm.org/browse/node/4069912617"/></wpt><wpt lat="49.6914119" lon="11.1027655"><name>node/4140248064</name><desc>emergency=water_tank
+water_tank:volume=0</desc><link href="http://osm.org/browse/node/4140248064"/></wpt><wpt lat="49.4102298" lon="10.6823051"><name>node/4184998396</name><desc>emergency=water_tank
+survey:date=2016-05-14</desc><link href="http://osm.org/browse/node/4184998396"/></wpt><wpt lat="49.4098389" lon="10.6811625"><name>node/4185000432</name><desc>emergency=water_tank
+survey:date=2016-05-14</desc><link href="http://osm.org/browse/node/4185000432"/></wpt><wpt lat="49.4060727" lon="10.683673"><name>node/4185014631</name><desc>emergency=water_tank
+survey:date=14.05.2016</desc><link href="http://osm.org/browse/node/4185014631"/></wpt><wpt lat="49.7027893" lon="11.0427512"><name>node/4191602733</name><desc>description=500m3
+emergency=water_tank
+fire_hydrant:type=underground</desc><link href="http://osm.org/browse/node/4191602733"/></wpt><wpt lat="49.5023864" lon="11.4465402"><name>node/4328327217</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/4328327217"/></wpt><wpt lat="49.4875835" lon="10.7187617"><name>node/4556863634</name><desc>emergency=water_tank
+survey:date=2016-12-16
+water_tank:volume=0</desc><link href="http://osm.org/browse/node/4556863634"/></wpt><wpt lat="49.4113571" lon="10.647018"><name>node/4637436896</name><desc>description=Wasserstemme Bibert
+emergency=water_tank</desc><link href="http://osm.org/browse/node/4637436896"/></wpt><wpt lat="49.5063456" lon="11.4818877"><name>node/4724940492</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/4724940492"/></wpt><wpt lat="49.5892449" lon="10.7703831"><name>node/4954873692</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/4954873692"/></wpt><wpt lat="49.7123322" lon="9.9657288"><name>node/5002530040</name><desc>description=Vor Betriebsgebäude mit 2 Entnahmestellen.
+emergency=water_tank
+fixme=Details!
+survey:date=29.07.17
+water_tank:volume=144</desc><link href="http://osm.org/browse/node/5002530040"/></wpt><wpt lat="49.3012939" lon="10.4155487"><name>node/5026326734</name><desc>emergency=water_tank
+water_tank:volume=10000</desc><link href="http://osm.org/browse/node/5026326734"/></wpt><wpt lat="49.4595643" lon="11.2794284"><name>Löschwasserbehälter</name><desc>emergency=water_tank
+name=Löschwasserbehälter
+water_tank:volume=200 m³</desc><link href="http://osm.org/browse/node/5073652421"/></wpt><wpt lat="49.4505236" lon="11.304219"><name>Löschwasserbehälter</name><desc>emergency=water_tank
+name=Löschwasserbehälter
+water_tank:volume=83 m³</desc><link href="http://osm.org/browse/node/5073796091"/></wpt><wpt lat="49.5899011" lon="10.9038468"><name>node/5077366085</name><desc>emergency=water_tank
+water_tank:volume=6000</desc><link href="http://osm.org/browse/node/5077366085"/></wpt><wpt lat="49.5713007" lon="10.8871186"><name>node/5098461297</name><desc>emergency=water_tank
+image=https://ia601505.us.archive.org/7/items/20170906184139/2017-09-06_18-41-39.jpg
+water_tank:volume=22000</desc><link href="http://osm.org/browse/node/5098461297"/></wpt><wpt lat="49.5714303" lon="10.8880929"><name>node/5098461298</name><desc>emergency=water_tank
+image=https://ia601505.us.archive.org/7/items/20170906184139/2017-09-10_15-53-06.jpg
+water_tank:volume=100000</desc><link href="http://osm.org/browse/node/5098461298"/></wpt><wpt lat="49.6134038" lon="10.0117582"><name>node/5124750047</name><desc>description=Zisterne 2x A
+emergency=water_tank
+water_tank:volume=50000</desc><link href="http://osm.org/browse/node/5124750047"/></wpt><wpt lat="49.2935574" lon="10.4079232"><name>node/5162429752</name><desc>emergency=water_tank
+water_tank:volume=100 m/3</desc><link href="http://osm.org/browse/node/5162429752"/></wpt><wpt lat="49.6359619" lon="11.2700039"><name>node/5224734551</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5224734551"/></wpt><wpt lat="49.6363944" lon="11.2666377"><name>node/5224762790</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5224762790"/></wpt><wpt lat="49.2522708" lon="9.7912028"><name>Feuersee Tierberg</name><desc>emergency=water_tank
+name=Feuersee Tierberg
+survey:date=2018-01-10
+water_tank:volume=50 m³</desc><link href="http://osm.org/browse/node/5331691816"/></wpt><wpt lat="49.2226846" lon="9.7994828"><name>node/5331737385</name><desc>emergency=water_tank
+survey:date=2018-01-10
+water_tank:volume=300 m³</desc><link href="http://osm.org/browse/node/5331737385"/></wpt><wpt lat="49.2207418" lon="9.7994319"><name>node/5331737439</name><desc>emergency=water_tank
+survey:date=2018-01-10
+water_tank:volume=300 m³</desc><link href="http://osm.org/browse/node/5331737439"/></wpt><wpt lat="49.21118" lon="9.8120101"><name>Feuersee Orlach</name><desc>emergency=water_tank
+name=Feuersee Orlach
+survey:date=2018-01-10
+water_tank:volume=ca.80</desc><link href="http://osm.org/browse/node/5331898004"/></wpt><wpt lat="49.2306004" lon="9.8230997"><name>node/5364323334</name><desc>emergency=water_tank
+survey:date=2018-01-26
+water_tank:volume=70 m³</desc><link href="http://osm.org/browse/node/5364323334"/></wpt><wpt lat="49.2083808" lon="9.7939575"><name>node/5364405847</name><desc>emergency=water_tank
+survey:date=2018-01-26
+water_tank:volume=30</desc><link href="http://osm.org/browse/node/5364405847"/></wpt><wpt lat="49.7026334" lon="9.968757"><name>node/5412178222</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5412178222"/></wpt><wpt lat="49.6758165" lon="9.9477002"><name>node/5433315139</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5433315139"/></wpt><wpt lat="49.6879884" lon="9.9525359"><name>node/5433361769</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5433361769"/></wpt><wpt lat="49.5367032" lon="11.4433055"><name>node/5518067384</name><desc>emergency=water_tank
+water_tank:volume=150000</desc><link href="http://osm.org/browse/node/5518067384"/></wpt><wpt lat="49.6185202" lon="9.944484"><name>node/5530662772</name><desc>description=Zisterne 50 qm
+emergency=water_tank
+survey:date=2018-04-05</desc><link href="http://osm.org/browse/node/5530662772"/></wpt><wpt lat="49.5172819" lon="11.3331296"><name>node/5554394011</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5554394011"/></wpt><wpt lat="49.9086924" lon="11.1462647"><name>node/5560352437</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5560352437"/></wpt><wpt lat="49.9065077" lon="11.147212"><name>node/5560352438</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5560352438"/></wpt><wpt lat="49.7097647" lon="9.9597035"><name>node/5570920669</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5570920669"/></wpt><wpt lat="49.7939737" lon="10.8872182"><name>node/5662658629</name><desc>description=im Rasen bei der Wendeplatte
+emergency=water_tank
+water_tank:volume=75000</desc><link href="http://osm.org/browse/node/5662658629"/></wpt><wpt lat="49.6727661" lon="9.9937284"><name>node/5794091489</name><desc>emergency=water_tank
+survey:date=2018-07-29
+water_tank:volume=80</desc><link href="http://osm.org/browse/node/5794091489"/></wpt><wpt lat="49.6943902" lon="11.3403408"><name>node/5854571109</name><desc>emergency=water_tank
+water_tank:volume=85 m³</desc><link href="http://osm.org/browse/node/5854571109"/></wpt><wpt lat="49.5795444" lon="11.1846989"><name>node/5910238878</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/5910238878"/></wpt><wpt lat="49.9019704" lon="10.7706919"><name>Feuerweiher</name><desc>emergency=water_tank
+name=Feuerweiher</desc><link href="http://osm.org/browse/node/5913335518"/></wpt><wpt lat="49.6093959" lon="9.9506575"><name>node/6045591822</name><desc>description=Zisterne
+emergency=water_tank
+survey:date=2018-11-08
+water_volume=30000</desc><link href="http://osm.org/browse/node/6045591822"/></wpt><wpt lat="49.4222985" lon="10.5132079"><name>node/6167217483</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/6167217483"/></wpt><wpt lat="49.8596304" lon="10.1828337"><name>node/6185689991</name><desc>emergency=water_tank
+survey:date=2019-01-05
+water_tank:volume=50000</desc><link href="http://osm.org/browse/node/6185689991"/></wpt><wpt lat="49.6623851" lon="9.923031"><name>node/6186356728</name><desc>drinking_water=no
+emergency=water_tank</desc><link href="http://osm.org/browse/node/6186356728"/></wpt><wpt lat="49.6391008" lon="11.1715132"><name>node/6490432599</name><desc>emergency=water_tank
+survey:date=2019-05-22
+water_tank:volume=7,5 m³</desc><link href="http://osm.org/browse/node/6490432599"/></wpt><wpt lat="49.6232707" lon="11.1060995"><name>node/6490697597</name><desc>emergency=water_tank
+survey:date=2019-05-22
+water_tank:volume=70 m³</desc><link href="http://osm.org/browse/node/6490697597"/></wpt><wpt lat="49.6208589" lon="11.0908538"><name>node/6494114608</name><desc>emergency=water_tank
+survey:date=2019-05-23
+water_tank:volume=80 m³</desc><link href="http://osm.org/browse/node/6494114608"/></wpt><wpt lat="49.7562003" lon="10.6312624"><name>node/6593470440</name><desc>couplings=1
+description=Hochbehälter
+emergency=water_tank
+survey:date=2019-07-06
+water_volume=5000</desc><link href="http://osm.org/browse/node/6593470440"/></wpt><wpt lat="49.7492463" lon="10.6421844"><name>node/6593474658</name><desc>couplings=2
+description=Hochbehälter
+emergency=water_tank
+fixme=Volumen nicht bekannt
+survey:date=2019-07-06</desc><link href="http://osm.org/browse/node/6593474658"/></wpt><wpt lat="49.6122191" lon="10.7149945"><name>Löschwassertank</name><desc>emergency=water_tank
+name=Löschwassertank
+operator=FF Willmersbach</desc><link href="http://osm.org/browse/node/6616587053"/></wpt><wpt lat="49.8686784" lon="10.442566"><name>node/6657050012</name><desc>emergency=water_tank
+man_made=reservoir_covered
+water_tank:volume=50000</desc><link href="http://osm.org/browse/node/6657050012"/></wpt><wpt lat="49.7794247" lon="9.6277128"><name>Löschwasserbehälter</name><desc>emergency=water_tank
+name=Löschwasserbehälter
+water_tank:volume=24000</desc><link href="http://osm.org/browse/node/6699425034"/></wpt><wpt lat="49.2521358" lon="11.3979578"><name>Zisterne</name><desc>emergency=water_tank
+name=Zisterne
+survey:date=2019-08-30
+water_tank:volume=75 m3</desc><link href="http://osm.org/browse/node/6760340470"/></wpt><wpt lat="49.2505644" lon="11.402343"><name>Zisterne</name><desc>emergency=water_tank
+name=Zisterne
+survey:date=2019-08-30
+water_tank:volume=75 m3</desc><link href="http://osm.org/browse/node/6760347915"/></wpt><wpt lat="49.5620613" lon="10.7297856"><name>node/6776174684</name><desc>emergency=water_tank
+survey:date=2019-09-06
+water_tank:volume=40000 L</desc><link href="http://osm.org/browse/node/6776174684"/></wpt><wpt lat="49.5666471" lon="10.7405224"><name>node/6776190515</name><desc>emergency=water_tank
+survey:date=2019-09-06
+water_tank:volume=30000 -100000 L</desc><link href="http://osm.org/browse/node/6776190515"/></wpt><wpt lat="49.7482662" lon="10.2081891"><name>Löschwasserzisterne</name><desc>description=103m³
+emergency=water_tank
+fire_hydrant:diameter=103m³
+fire_hydrant:position=green
+fire_hydrant:type=pillar
+name=Löschwasserzisterne
+operator=conneKT</desc><link href="http://osm.org/browse/node/6804715348"/></wpt><wpt lat="49.6399167" lon="11.1897215"><name>node/6816343003</name><desc>emergency=water_tank
+water_tank:volume=7,5 m³</desc><link href="http://osm.org/browse/node/6816343003"/></wpt><wpt lat="49.2539025" lon="10.2386087"><name>node/6851612050</name><desc>emergency=water_tank
+water_tank:volume=250000</desc><link href="http://osm.org/browse/node/6851612050"/></wpt><wpt lat="49.2548181" lon="10.2441582"><name>node/6851617034</name><desc>emergency=water_tank
+water_tank:volume=100000</desc><link href="http://osm.org/browse/node/6851617034"/></wpt><wpt lat="49.3210914" lon="11.3875613"><name>node/6874063019</name><desc>emergency=water_tank
+water_tank:volume=85000</desc><link href="http://osm.org/browse/node/6874063019"/></wpt><wpt lat="49.5394672" lon="11.3718914"><name>node/7040138752</name><desc>emergency=water_tank
+water_source=main</desc><link href="http://osm.org/browse/node/7040138752"/></wpt><wpt lat="49.7406857" lon="11.1987445"><name>node/7086716505</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/7086716505"/></wpt><wpt lat="49.7285142" lon="11.2012157"><name>node/7086716507</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/7086716507"/></wpt><wpt lat="49.7260597" lon="11.2088654"><name>node/7086716508</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/7086716508"/></wpt><wpt lat="49.2305916" lon="9.8162091"><name>node/7160216457</name><desc>emergency=water_tank
+survey:date=2020-01-26
+water_tank:volume=25 m3</desc><link href="http://osm.org/browse/node/7160216457"/></wpt><wpt lat="49.766634" lon="11.0826784"><name>node/7198132578</name><desc>emergency=water_tank
+water_tank:volume=80000</desc><link href="http://osm.org/browse/node/7198132578"/></wpt><wpt lat="49.8746665" lon="10.7870078"><name>Löschweiher</name><desc>emergency=water_tank
+name=Löschweiher</desc><link href="http://osm.org/browse/node/7386124560"/></wpt><wpt lat="49.884197" lon="10.7885501"><name>Ansaugstelle_Hochbehaelter</name><desc>emergency=water_tank
+name=Ansaugstelle_Hochbehaelter</desc><link href="http://osm.org/browse/node/7386124838"/></wpt><wpt lat="49.745912" lon="11.088331"><name>node/7395980467</name><desc>emergency=water_tank
+water_tank:volume=100 m³</desc><link href="http://osm.org/browse/node/7395980467"/></wpt><wpt lat="49.7497879" lon="11.0796648"><name>node/7395981945</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/7395981945"/></wpt><wpt lat="49.74675" lon="11.08788"><name>node/7396051021</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/7396051021"/></wpt><wpt lat="49.2627059" lon="9.7861844"><name>node/7431098591</name><desc>emergency=water_tank
+survey:date=2020-04-21</desc><link href="http://osm.org/browse/node/7431098591"/></wpt><wpt lat="49.545745" lon="11.2074287"><name>node/7443506469</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/7443506469"/></wpt><wpt lat="49.6909576" lon="9.9437624"><name>node/7476283448</name><desc>emergency=water_tank
+fire_hydrant:type=pillar
+water_tank:volume=100000</desc><link href="http://osm.org/browse/node/7476283448"/></wpt><wpt lat="49.5542913" lon="11.0026822"><name>node/7486861058</name><desc>emergency=water_tank
+man_made=reservoir_covered
+water_volume=149000</desc><link href="http://osm.org/browse/node/7486861058"/></wpt><wpt lat="49.5543131" lon="11.0026501"><name>node/7486874571</name><desc>emergency=water_tank
+man_made=reservoir_covered
+water_volume=149000</desc><link href="http://osm.org/browse/node/7486874571"/></wpt><wpt lat="49.5543606" lon="11.0026721"><name>node/7486877314</name><desc>emergency=water_tank
+man_made=reservoir_covered
+water_volume=149000</desc><link href="http://osm.org/browse/node/7486877314"/></wpt><wpt lat="49.2412594" lon="10.3541873"><name>node/7638259628</name><desc>description=Rastanlage Frankenhöhe Süd
+emergency=water_tank
+water_tank:volume=80000 Liter</desc><link href="http://osm.org/browse/node/7638259628"/></wpt><wpt lat="49.2425403" lon="10.3550215"><name>Löschwasserbehälter</name><desc>description=Rastanlage Frankenhöhe Nord
+emergency=water_tank
+name=Löschwasserbehälter
+survey:date=2020-06-21
+water_tank:volume=80000 Liter</desc><link href="http://osm.org/browse/node/7639638653"/></wpt><wpt lat="49.2318724" lon="10.3664477"><name>Löschwasserbehälter mit Ansaugstelle</name><desc>emergency=water_tank
+name=Löschwasserbehälter mit Ansaugstelle
+water_tank:volume=125 m3 </desc><link href="http://osm.org/browse/node/7639723380"/></wpt><wpt lat="49.2462776" lon="10.415597"><name>node/7666615500</name><desc>emergency=water_tank
+fixme=Volumen
+survey:date=2020-06-29</desc><link href="http://osm.org/browse/node/7666615500"/></wpt><wpt lat="49.2417441" lon="10.380916"><name>node/7688756970</name><desc>emergency=water_tank
+survey:date=2020-07-06
+water_tank:volume=1500</desc><link href="http://osm.org/browse/node/7688756970"/></wpt><wpt lat="49.2542386" lon="10.4195613"><name>node/7688801293</name><desc>emergency=water_tank
+survey:date=2020-07-06
+water_tank:volume=50</desc><link href="http://osm.org/browse/node/7688801293"/></wpt><wpt lat="49.2524809" lon="10.4220825"><name>node/7688804146</name><desc>emergency=water_tank
+survey:date=2020-07-06
+water_tank:volume=550</desc><link href="http://osm.org/browse/node/7688804146"/></wpt><wpt lat="49.2398423" lon="10.3790331"><name>node/7688982561</name><desc>emergency=water_tank
+survey:date=2020-07-06
+water_tank:volume=1500</desc><link href="http://osm.org/browse/node/7688982561"/></wpt><wpt lat="49.2397828" lon="10.3807336"><name>node/7688988361</name><desc>emergency=water_tank
+survey:date=2020-07-06
+water_tank:volume=1500</desc><link href="http://osm.org/browse/node/7688988361"/></wpt><wpt lat="49.2415388" lon="10.4081877"><name>Mühlweiher</name><desc>emergency=water_tank
+name=Mühlweiher
+survey:date=2020-07-12</desc><link href="http://osm.org/browse/node/7707460737"/></wpt><wpt lat="49.6107829" lon="10.4284823"><name>node/7744072287</name><desc>emergency=water_tank
+survey:date=2020-07-24</desc><link href="http://osm.org/browse/node/7744072287"/></wpt><wpt lat="49.7560875" lon="11.1029747"><name>node/7746393144</name><desc>emergency=water_tank
+water_tank:volume=80 m²</desc><link href="http://osm.org/browse/node/7746393144"/></wpt><wpt lat="49.2171156" lon="10.3042786"><name>node/7896058051</name><desc>description=Zisterne unter Gerätehaus, Saugschacht vor Gerätehaus 
+emergency=water_tank
+water_tank:volume=40000</desc><link href="http://osm.org/browse/node/7896058051"/></wpt><wpt lat="49.7493544" lon="10.6422198"><name>node/7931513048</name><desc>description=Hochbehälter  200m2
+emergency=water_tank
+survey:date=2020-09-22
+water_volume=200000</desc><link href="http://osm.org/browse/node/7931513048"/></wpt><wpt lat="49.7478458" lon="10.6375822"><name>node/7935030487</name><desc>description=96m3 Hochbehälter
+emergency=water_tank
+water_volume=96000</desc><link href="http://osm.org/browse/node/7935030487"/></wpt><wpt lat="49.7879202" lon="10.2444423"><name>node/7950683878</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/7950683878"/></wpt><wpt lat="49.2307969" lon="11.5332433"><name>Laber</name><desc>description=Saugstelle offenes Gewässer
+drinking_water=no
+emergency=water_tank
+name=Laber</desc><link href="http://osm.org/browse/node/7953912551"/></wpt><wpt lat="49.2296102" lon="11.5339569"><name>Laber</name><desc>description=Saugstelle offenes Gewässer
+drinking_water=no
+emergency=water_tank
+name=Laber</desc><link href="http://osm.org/browse/node/7953912552"/></wpt><wpt lat="49.7552147" lon="10.7763451"><name>node/7966197107</name><desc>emergency=water_tank
+survey:date=2020-10-02
+water_tank:volume=85</desc><link href="http://osm.org/browse/node/7966197107"/></wpt><wpt lat="49.7297802" lon="10.2141529"><name>node/7967980434</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/7967980434"/></wpt><wpt lat="49.7302171" lon="10.2170285"><name>node/7967980435</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/7967980435"/></wpt><wpt lat="49.6495908" lon="9.8980828"><name>node/7995264295</name><desc>drinking_water=no
+emergency=water_tank</desc><link href="http://osm.org/browse/node/7995264295"/></wpt><wpt lat="49.2443381" lon="11.5011818"><name>node/8003324353</name><desc>emergency=water_tank
+fire_hydrant:diameter=100
+fire_hydrant:type=underground</desc><link href="http://osm.org/browse/node/8003324353"/></wpt><wpt lat="49.2418205" lon="11.5043421"><name>Löschwasserbehälter</name><desc>drinking_water=no
+emergency=water_tank
+name=Löschwasserbehälter
+water_tank:volume=200000</desc><link href="http://osm.org/browse/node/8003324354"/></wpt><wpt lat="49.5407013" lon="10.7726634"><name>node/8035831551</name><desc>emergency=water_tank</desc><link href="http://osm.org/browse/node/8035831551"/></wpt><wpt lat="49.8721116" lon="10.028927"><name>Bach</name><desc>description=Saugstelle
+emergency=water_tank
+name=Bach
+survey:date=2020-10-31</desc><link href="http://osm.org/browse/node/8068145399"/></wpt><wpt lat="49.746281" lon="10.2003154"><name>node/8150431125</name><desc>emergency=water_tank
+water_tank:volume=100000</desc><link href="http://osm.org/browse/node/8150431125"/></wpt><wpt lat="49.7441955" lon="10.1936523"><name>node/8195840628</name><desc>emergency=water_tank
+water_tank:volume=290000</desc><link href="http://osm.org/browse/node/8195840628"/></wpt><wpt lat="49.6822669" lon="11.0689482"><name>node/8201674364</name><desc>emergency=water_tank
+water_tank:volume=78000</desc><link href="http://osm.org/browse/node/8201674364"/></wpt><wpt lat="49.6978453" lon="11.0808653"><name>node/8201773119</name><desc>emergency=water_tank
+water_tank:volume=85000</desc><link href="http://osm.org/browse/node/8201773119"/></wpt><wpt lat="49.6859667" lon="10.2931863"><name>Löschwasserzisterne</name><desc>description=FFW-Haus Parkplatz
+emergency=water_tank
+name=Löschwasserzisterne
+ref=MES02
+survey:date=2020-12-09
+water_tank:volume=150 m³</desc><link href="http://osm.org/browse/node/8209026425"/></wpt></gpx>

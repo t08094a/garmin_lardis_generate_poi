@@ -1,0 +1,63 @@
+/****************************
+ * https://overpass-turbo.eu/
+ ****************************/
+ 
+// gerätehaus
+[out:json][timeout:25];
+(
+  node["amenity"="fire_station"](49.20683172516031,9.6240234375,49.9167460168401,11.590576171875);
+  way["amenity"="fire_station"](49.20683172516031,9.6240234375,49.9167460168401,11.590576171875);
+  relation["amenity"="fire_station"](49.20683172516031,9.6240234375,49.9167460168401,11.590576171875);
+);
+out body;
+>;
+out skel qt;
+
+
+// hydrant_unterflur
+[out:json][timeout:25];
+(
+  node["emergency"="fire_hydrant"]["fire_hydrant:type"="underground"](49.20683172516031,9.6240234375,49.9167460168401,11.590576171875);
+);
+out body;
+>;
+out skel qt;
+
+// hydrant_überflur
+[out:json][timeout:25];
+(
+  node["emergency"="fire_hydrant"]["fire_hydrant:type"="pillar"](49.20683172516031,9.6240234375,49.9167460168401,11.590576171875);
+);
+out body;
+>;
+out skel qt;
+
+
+// saugstelle
+[out:json][timeout:25];
+(
+  node["emergency"="suction_point"](49.20683172516031,9.6240234375,49.9167460168401,11.590576171875);
+);
+out body;
+>;
+out skel qt;
+
+
+
+// löschteich
+[out:json][timeout:25];
+(
+  node["emergency"="fire_water_pond"](49.20683172516031,9.6240234375,49.9167460168401,11.590576171875);
+);
+out body;
+>;
+out skel qt;
+
+// löschbehälter
+[out:json][timeout:25];
+(
+  node["emergency"="water_tank"](49.20683172516031,9.6240234375,49.9167460168401,11.590576171875);
+);
+out body;
+>;
+out skel qt;

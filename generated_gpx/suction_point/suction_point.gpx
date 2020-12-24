@@ -1,0 +1,1272 @@
+<?xml version="1.0" ?>
+  <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide">
+    <metadata>
+      <desc>Filtered OSM data converted to GPX by overpass turbo</desc>
+      <copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/>
+      <time>2020-12-18T17:01:03Z</time>
+    </metadata>
+    <wpt lat="49.5534867" lon="10.7032525">
+      <name>node/268190053</name>
+      <desc>emergency=suction_point
+note=Ansaugplatz Teich</desc>
+      <link href="http://osm.org/browse/node/268190053"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5444806" lon="11.318953">
+      <name>node/428956354</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/428956354"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5422003" lon="11.3404091">
+      <name>node/459270730</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/459270730"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5194778" lon="10.4694239">
+      <name>node/485638741</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/485638741"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5210388" lon="10.5073166">
+      <name>node/1618836284</name>
+      <desc>emergency=suction_point
+fire_hydrant:position=green
+water_volume=200000</desc>
+      <link href="http://osm.org/browse/node/1618836284"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5586625" lon="11.3747054">
+      <name>node/1906658506</name>
+      <desc>emergency=suction_point
+fire_hydrant:position=green
+fire_hydrant:type=pond</desc>
+      <link href="http://osm.org/browse/node/1906658506"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7927772" lon="11.113328">
+      <name>node/2290116273</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/2290116273"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5328159" lon="11.2042185">
+      <name>node/2582758463</name>
+      <desc>emergency=suction_point
+fire_hydrant:type=pond</desc>
+      <link href="http://osm.org/browse/node/2582758463"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2227247" lon="9.9018261">
+      <name>node/2658138017</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/2658138017"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5942135" lon="11.0535345">
+      <name>node/2736077145</name>
+      <desc>emergency=suction_point
+fire_hydrant:position=green
+fire_hydrant:type=pond</desc>
+      <link href="http://osm.org/browse/node/2736077145"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3544546" lon="11.0636616">
+      <name>node/2879690444</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/2879690444"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3619946" lon="11.0613763">
+      <name>node/2879696230</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/2879696230"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3498559" lon="11.0695732">
+      <name>node/2879700404</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/2879700404"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3487446" lon="11.0551322">
+      <name>node/2879700839</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/2879700839"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3345053" lon="11.0825229">
+      <name>node/2879702743</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/2879702743"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.380379" lon="11.062495">
+      <name>node/2879703161</name>
+      <desc>emergency=suction_point
+seamark:notice:addition=bottom_board
+seamark:notice:category=telephone
+seamark:notice:function=information
+seamark:notice:information=Anmeldung Sportboote
+seamark:type=notice</desc>
+      <link href="http://osm.org/browse/node/2879703161"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3402099" lon="11.0797334">
+      <name>node/2879705930</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/2879705930"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2269037" lon="9.9003432">
+      <name>node/3225548135</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/3225548135"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.4000266" lon="9.9204451">
+      <name>node/3400080467</name>
+      <desc>emergency=suction_point
+note=Löschwasserentnahme Vorbach</desc>
+      <link href="http://osm.org/browse/node/3400080467"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.4068615" lon="9.9157619">
+      <name>node/3400180666</name>
+      <desc>emergency=suction_point
+note=Saugstelle Austraße </desc>
+      <link href="http://osm.org/browse/node/3400180666"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.4162641" lon="9.9871302">
+      <name>node/3400216533</name>
+      <desc>emergency=suction_point
+note=Saugstelle Badesee Rinderfeld</desc>
+      <link href="http://osm.org/browse/node/3400216533"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2680251" lon="9.6294951">
+      <name>node/3420326545</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/3420326545"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8148119" lon="10.5102575">
+      <name>node/3577378764</name>
+      <desc>emergency=suction_point
+note=Zugang zu Weiher mit TS 8/8 gut zugänglich </desc>
+      <link href="http://osm.org/browse/node/3577378764"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8319707" lon="10.4842642">
+      <name>node/3577385238</name>
+      <desc>emergency=suction_point
+note=Ansaugung nur Durch TS 8/8 möglich ( Anschlussgröße = A )</desc>
+      <link href="http://osm.org/browse/node/3577385238"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.834154" lon="10.4666957">
+      <name>node/3577387485</name>
+      <desc>emergency=suction_point
+note=Löschwasserentnahme mit TS 8/8 möglich </desc>
+      <link href="http://osm.org/browse/node/3577387485"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8287439" lon="10.4672885">
+      <name>node/3577389318</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/3577389318"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8199899" lon="10.4854122">
+      <name>node/3578143991</name>
+      <desc>emergency=suction_point
+note=Ansaugung nur mit TS 8/8 Möglich ( Ansaugstutzen = A ) </desc>
+      <link href="http://osm.org/browse/node/3578143991"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8410719" lon="10.4755336">
+      <name>node/3578154976</name>
+      <desc>emergency=suction_point
+note=Ansaugung nur mit TS 8/8 Möglich </desc>
+      <link href="http://osm.org/browse/node/3578154976"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8293703" lon="10.4698607">
+      <name>node/3578160743</name>
+      <desc>emergency=suction_point
+note=Ansaugung mit TS 8/8 wäre möglich </desc>
+      <link href="http://osm.org/browse/node/3578160743"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5512384" lon="10.7111584">
+      <name>node/3913414136</name>
+      <desc>emergency=suction_point
+note=Ansaugplatz Teich</desc>
+      <link href="http://osm.org/browse/node/3913414136"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5534662" lon="10.7037225">
+      <name>node/3913414763</name>
+      <desc>emergency=suction_point
+note=Ansaugplatz Teich</desc>
+      <link href="http://osm.org/browse/node/3913414763"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5525684" lon="10.7083735">
+      <name>node/3913415397</name>
+      <desc>emergency=suction_point
+note=Ansaugplatz Teich</desc>
+      <link href="http://osm.org/browse/node/3913415397"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5534541" lon="10.7037708">
+      <name>node/3913417171</name>
+      <desc>emergency=suction_point
+note=Ansaugplatz Teich</desc>
+      <link href="http://osm.org/browse/node/3913417171"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5533678" lon="10.7043474">
+      <name>node/3913417358</name>
+      <desc>emergency=suction_point
+note=Ansaugplatz Teich</desc>
+      <link href="http://osm.org/browse/node/3913417358"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.554773" lon="10.6933317">
+      <name>node/3913418120</name>
+      <desc>emergency=suction_point
+note=Ansaugplatz Teich</desc>
+      <link href="http://osm.org/browse/node/3913418120"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8972279" lon="11.3279638">
+      <name>node/3947799963</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/3947799963"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5580804" lon="10.6943634">
+      <name>node/4058381520</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/4058381520"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5880549" lon="11.1909592">
+      <name>node/4114536915</name>
+      <desc>emergency=suction_point
+note=1 x Storz A</desc>
+      <link href="http://osm.org/browse/node/4114536915"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.688495" lon="11.0996059">
+      <name>node/4140250601</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/4140250601"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6929492" lon="11.1159378">
+      <name>node/4144008986</name>
+      <desc>emergency=suction_point
+note=Löschteich</desc>
+      <link href="http://osm.org/browse/node/4144008986"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2209993" lon="10.7025692">
+      <name>node/4150689282</name>
+      <desc>emergency=suction_point
+note=Fluss für Wasserentnahme</desc>
+      <link href="http://osm.org/browse/node/4150689282"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2458924" lon="10.7174608">
+      <name>node/4150695885</name>
+      <desc>emergency=suction_point
+note=Löschwasserbehälter</desc>
+      <link href="http://osm.org/browse/node/4150695885"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2356883" lon="10.7227206">
+      <name>node/4150696269</name>
+      <desc>emergency=suction_point
+note=Teich zur Wasserentnahme</desc>
+      <link href="http://osm.org/browse/node/4150696269"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2073189" lon="10.7711077">
+      <name>node/4150715640</name>
+      <desc>emergency=suction_point
+note=Löschwasserentnahmestelle</desc>
+      <link href="http://osm.org/browse/node/4150715640"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2109952" lon="10.7722878">
+      <name>node/4150716491</name>
+      <desc>emergency=suction_point
+note=Kläranlage</desc>
+      <link href="http://osm.org/browse/node/4150716491"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2355692" lon="10.738079">
+      <name>node/4151734408</name>
+      <desc>emergency=suction_point
+note=Löschwasserentnahmestelle</desc>
+      <link href="http://osm.org/browse/node/4151734408"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2208697" lon="10.7497948">
+      <name>node/4151742677</name>
+      <desc>emergency=suction_point
+note=Löschwasserentnahmestelle</desc>
+      <link href="http://osm.org/browse/node/4151742677"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2259043" lon="10.7230532">
+      <name>node/4151773525</name>
+      <desc>emergency=suction_point
+note=Löschwasserentnahmestelle</desc>
+      <link href="http://osm.org/browse/node/4151773525"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2295232" lon="10.7190299">
+      <name>node/4151781044</name>
+      <desc>emergency=suction_point
+note=Löschwasserentnahmestelle</desc>
+      <link href="http://osm.org/browse/node/4151781044"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2261811" lon="10.7298177">
+      <name>node/4151886889</name>
+      <desc>emergency=suction_point
+note=Löschwasserentnahmestelle</desc>
+      <link href="http://osm.org/browse/node/4151886889"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.489075" lon="10.7029366">
+      <name>node/4556850944</name>
+      <desc>description=Stauwehr des Ulsenbach
+emergency=suction_point
+survey:date=2016-12-16</desc>
+      <link href="http://osm.org/browse/node/4556850944"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.4893642" lon="10.720827">
+      <name>node/4556863940</name>
+      <desc>emergency=suction_point
+survey:date=2016-12-16</desc>
+      <link href="http://osm.org/browse/node/4556863940"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.508419" lon="11.4115512">
+      <name>node/4726206057</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/4726206057"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5356016" lon="11.4333585">
+      <name>node/4743664333</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/4743664333"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3120824" lon="10.390867">
+      <name>node/5026338197</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5026338197"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2948798" lon="10.4112813">
+      <name>node/5068999673</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5068999673"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6106769" lon="10.0169107">
+      <name>node/5116157229</name>
+      <desc>description=Löschweiher
+emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5116157229"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5106117" lon="11.3771387">
+      <name>node/5330137432</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5330137432"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2158451" lon="9.8136932">
+      <name>Wasserfrale</name>
+      <desc>description=Wasserbehälter/Faltbehälter benötigt
+emergency=suction_point
+name=Wasserfrale
+survey:date=2018-01-14</desc>
+      <link href="http://osm.org/browse/node/5339227971"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.524387" lon="11.4237041">
+      <name>node/5366195593</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5366195593"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5756111" lon="11.2375841">
+      <name>node/5369962947</name>
+      <desc>emergency=suction_point
+survey:date=2018-01-29</desc>
+      <link href="http://osm.org/browse/node/5369962947"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6167487" lon="9.9456585">
+      <name>node/5547660126</name>
+      <desc>description=Klärbecken
+emergency=suction_point
+survey:date=2018-04-12</desc>
+      <link href="http://osm.org/browse/node/5547660126"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7911279" lon="10.8853866">
+      <name>node/5662667904</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5662667904"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7850491" lon="10.8765128">
+      <name>node/5685737132</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5685737132"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6726411" lon="9.8823953">
+      <name>Weiher Brunnenhaus</name>
+      <desc>emergency=suction_point
+name=Weiher Brunnenhaus
+survey:date=2018-07-25</desc>
+      <link href="http://osm.org/browse/node/5783908591"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3500679" lon="10.4502368">
+      <name>node/5907133572</name>
+      <desc>description=Winterfeste Schacht zum ansaugen
+emergency=suction_point
+survey:date=2018-09-14</desc>
+      <link href="http://osm.org/browse/node/5907133572"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3331653" lon="10.418196">
+      <name>node/5907143245</name>
+      <desc>emergency=suction_point
+survey:date=2018-09-14</desc>
+      <link href="http://osm.org/browse/node/5907143245"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.380615" lon="10.4075664">
+      <name>node/5907143790</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5907143790"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3504488" lon="10.3823519">
+      <name>node/5907145269</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5907145269"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3477708" lon="10.4569924">
+      <name>node/5907145543</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5907145543"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2469914" lon="10.2942323">
+      <name>node/5917155319</name>
+      <desc>description=Klärweiher
+emergency=suction_point
+operator=Gemeinde Dombühl</desc>
+      <link href="http://osm.org/browse/node/5917155319"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2477278" lon="10.2933519">
+      <name>node/5917155320</name>
+      <desc>description=Klärweiher
+emergency=suction_point
+operator=Gemeinde Dombühl</desc>
+      <link href="http://osm.org/browse/node/5917155320"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2482242" lon="10.2927223">
+      <name>node/5917155321</name>
+      <desc>description=Klärweiher
+emergency=suction_point
+operator=Gemeinde Dombühl</desc>
+      <link href="http://osm.org/browse/node/5917155321"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2646439" lon="10.2724689">
+      <name>node/5917155324</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5917155324"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2642067" lon="10.270828">
+      <name>node/5917155325</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5917155325"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2642922" lon="10.270001">
+      <name>node/5917155326</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5917155326"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2645143" lon="10.2694904">
+      <name>node/5917155327</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5917155327"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2640323" lon="10.2674372">
+      <name>node/5917155328</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/5917155328"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2551891" lon="10.2795263">
+      <name>Karpfenweiher FCD</name>
+      <desc>emergency=suction_point
+name=Karpfenweiher FCD
+operator=FC Dombühl</desc>
+      <link href="http://osm.org/browse/node/5917155357"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2546178" lon="10.2803944">
+      <name>Karpfenweiher FFW</name>
+      <desc>emergency=suction_point
+name=Karpfenweiher FFW
+operator=FFW Dombühl</desc>
+      <link href="http://osm.org/browse/node/5917155358"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2546967" lon="10.2807281">
+      <name>Natur-Freibad</name>
+      <desc>emergency=suction_point
+name=Natur-Freibad
+operator=Gemeinde Dombühl</desc>
+      <link href="http://osm.org/browse/node/5917155367"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.628775" lon="11.0394359">
+      <name>Teich</name>
+      <desc>description=Löschweiher
+emergency=suction_point
+name=Teich</desc>
+      <link href="http://osm.org/browse/node/5992984038"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.630686" lon="11.0263252">
+      <name>Teich</name>
+      <desc>description=Rothweiher
+emergency=suction_point
+name=Teich</desc>
+      <link href="http://osm.org/browse/node/5992984925"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6311672" lon="11.0380787">
+      <name>Kanalschacht</name>
+      <desc>emergency=suction_point
+name=Kanalschacht</desc>
+      <link href="http://osm.org/browse/node/5992992773"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7911939" lon="10.8868772">
+      <name>node/6228998025</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/6228998025"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8592256" lon="10.1781873">
+      <name>Saugstelle</name>
+      <desc>description=Für hintere Langgasse
+emergency=suction_point
+name=Saugstelle
+survey:date=2019-03-18</desc>
+      <link href="http://osm.org/browse/node/6344324882"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8596369" lon="10.178592">
+      <name>Saugstelle Mainfähre</name>
+      <desc>description=Altort
+emergency=suction_point
+name=Saugstelle Mainfähre
+survey:date=2019-03-18</desc>
+      <link href="http://osm.org/browse/node/6344327197"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8068309" lon="10.2325577">
+      <name>node/6400027287</name>
+      <desc>emergency=suction_point
+survey:date=2019-04-12</desc>
+      <link href="http://osm.org/browse/node/6400027287"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.804011" lon="10.2317798">
+      <name>node/6400029180</name>
+      <desc>emergency=suction_point
+survey:date=2019-04-12</desc>
+      <link href="http://osm.org/browse/node/6400029180"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.8037248" lon="10.2335941">
+      <name>node/6408446199</name>
+      <desc>emergency=suction_point
+survey:date=2019-04-12</desc>
+      <link href="http://osm.org/browse/node/6408446199"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.516474" lon="10.4665716">
+      <name>node/6419178036</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6419178036"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5173371" lon="10.4671318">
+      <name>node/6419178037</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6419178037"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5208222" lon="10.4708084">
+      <name>node/6419178039</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6419178039"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5190717" lon="10.4865696">
+      <name>node/6421163944</name>
+      <desc>emergency=suction_point
+water_source=pond
+water_tank:volume=20000</desc>
+      <link href="http://osm.org/browse/node/6421163944"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.526275" lon="10.4936403">
+      <name>node/6421196341</name>
+      <desc>emergency=suction_point
+water_source=pond</desc>
+      <link href="http://osm.org/browse/node/6421196341"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5268907" lon="10.4782933">
+      <name>node/6421196342</name>
+      <desc>emergency=suction_point
+water_source=pond</desc>
+      <link href="http://osm.org/browse/node/6421196342"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5269962" lon="10.4726911">
+      <name>node/6421196343</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6421196343"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5287176" lon="10.4807107">
+      <name>node/6421196344</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6421196344"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.530341" lon="10.4809294">
+      <name>node/6421196345</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6421196345"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5304911" lon="10.4810377">
+      <name>node/6421196346</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6421196346"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.531648" lon="10.4815579">
+      <name>node/6421196347</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6421196347"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5319333" lon="10.4884235">
+      <name>node/6421201670</name>
+      <desc>emergency=suction_point
+water_source=pond</desc>
+      <link href="http://osm.org/browse/node/6421201670"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5360799" lon="10.4543912">
+      <name>node/6438230582</name>
+      <desc>emergency=suction_point
+water_source=pond
+water_volume=80000</desc>
+      <link href="http://osm.org/browse/node/6438230582"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5430804" lon="10.4640979">
+      <name>node/6438472711</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6438472711"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5385577" lon="10.4686217">
+      <name>node/6438472713</name>
+      <desc>emergency=suction_point
+water_source=river</desc>
+      <link href="http://osm.org/browse/node/6438472713"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.9163315" lon="10.6840324">
+      <name>node/6458428324</name>
+      <desc>emergency=suction_point
+survey:date=2019-05-08</desc>
+      <link href="http://osm.org/browse/node/6458428324"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6260368" lon="11.1727095">
+      <name>Teich</name>
+      <desc>emergency=suction_point
+name=Teich
+survey:date=2019-05-24</desc>
+      <link href="http://osm.org/browse/node/6497126507"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7546955" lon="10.6410379">
+      <name>node/6593449223</name>
+      <desc>description=Weiher
+emergency=suction_point
+survey:date=2019-07-06</desc>
+      <link href="http://osm.org/browse/node/6593449223"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.754724" lon="10.6409264">
+      <name>node/6593472138</name>
+      <desc>couplings=1
+description=Weiher
+emergency=suction_point
+survey:date=2019-07-06</desc>
+      <link href="http://osm.org/browse/node/6593472138"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7551763" lon="10.6430051">
+      <name>node/6593489289</name>
+      <desc>couplings=1
+description=Weiher
+emergency=suction_point
+survey:date=2019-07-06</desc>
+      <link href="http://osm.org/browse/node/6593489289"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5055727" lon="11.4219122">
+      <name>node/6710944329</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/6710944329"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5621883" lon="10.7296595">
+      <name>node/6776150769</name>
+      <desc>emergency=suction_point
+survey:date=2019-09-06</desc>
+      <link href="http://osm.org/browse/node/6776150769"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5593525" lon="10.7436445">
+      <name>node/6776154333</name>
+      <desc>emergency=suction_point
+survey:date=2019-09-06</desc>
+      <link href="http://osm.org/browse/node/6776154333"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5667654" lon="10.7365313">
+      <name>node/6776180606</name>
+      <desc>emergency=suction_point
+survey:date=2019-09-06</desc>
+      <link href="http://osm.org/browse/node/6776180606"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5679622" lon="10.7442346">
+      <name>node/6776182217</name>
+      <desc>emergency=suction_point
+survey:date=2019-09-06</desc>
+      <link href="http://osm.org/browse/node/6776182217"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5616995" lon="10.7267198">
+      <name>node/6776190144</name>
+      <desc>emergency=suction_point
+survey:date=2019-09-06</desc>
+      <link href="http://osm.org/browse/node/6776190144"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5679361" lon="10.7439986">
+      <name>node/6776191131</name>
+      <desc>emergency=suction_point
+survey:date=2019-09-06</desc>
+      <link href="http://osm.org/browse/node/6776191131"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.267717" lon="11.4169192">
+      <name>node/6780828642</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/6780828642"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5267636" lon="10.4770637">
+      <name>node/6788659444</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/6788659444"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5269157" lon="10.4771187">
+      <name>node/6788659445</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/6788659445"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5025452" lon="10.5076035">
+      <name>node/6844044992</name>
+      <desc>emergency=suction_point
+water=pond
+water_source=pond
+water_volume=1700</desc>
+      <link href="http://osm.org/browse/node/6844044992"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.3998054" lon="11.3362818">
+      <name>node/6875105802</name>
+      <desc>description=Staustelle
+emergency=suction_point
+survey:date=2019-10-13</desc>
+      <link href="http://osm.org/browse/node/6875105802"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5782331" lon="10.7297641">
+      <name>node/6916725459</name>
+      <desc>emergency=suction_point
+survey:date=2019-10-25</desc>
+      <link href="http://osm.org/browse/node/6916725459"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5778052" lon="10.7292598">
+      <name>node/6916728350</name>
+      <desc>emergency=suction_point
+survey:date=2019-10-25</desc>
+      <link href="http://osm.org/browse/node/6916728350"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5784609" lon="10.7456052">
+      <name>node/6916728557</name>
+      <desc>emergency=suction_point
+survey:date=2019-10-25</desc>
+      <link href="http://osm.org/browse/node/6916728557"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.577487" lon="10.7290453">
+      <name>node/6916730138</name>
+      <desc>emergency=suction_point
+survey:date=2019-10-25</desc>
+      <link href="http://osm.org/browse/node/6916730138"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5781392" lon="10.7290372">
+      <name>node/6916742689</name>
+      <desc>emergency=suction_point
+survey:date=2019-10-25</desc>
+      <link href="http://osm.org/browse/node/6916742689"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5768817" lon="10.7460049">
+      <name>node/6916748006</name>
+      <desc>emergency=suction_point
+survey:date=2019-10-25</desc>
+      <link href="http://osm.org/browse/node/6916748006"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.561235" lon="10.7415068">
+      <name>node/6916749514</name>
+      <desc>emergency=suction_point
+survey:date=2019-10-25</desc>
+      <link href="http://osm.org/browse/node/6916749514"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5731684" lon="10.7408416">
+      <name>node/6916750711</name>
+      <desc>emergency=suction_point
+survey:date=2019-10-25</desc>
+      <link href="http://osm.org/browse/node/6916750711"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5745459" lon="10.733192">
+      <name>node/6948408352</name>
+      <desc>emergency=suction_point
+survey:date=2019-11-05</desc>
+      <link href="http://osm.org/browse/node/6948408352"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5735649" lon="10.7348442">
+      <name>node/6948431072</name>
+      <desc>emergency=suction_point
+survey:date=2019-11-05</desc>
+      <link href="http://osm.org/browse/node/6948431072"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.574525" lon="10.7339859">
+      <name>node/6948431424</name>
+      <desc>emergency=suction_point
+survey:date=2019-11-05</desc>
+      <link href="http://osm.org/browse/node/6948431424"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5707854" lon="10.7355738">
+      <name>node/6948437133</name>
+      <desc>emergency=suction_point
+survey:date=2019-11-05</desc>
+      <link href="http://osm.org/browse/node/6948437133"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5178002" lon="10.5426271">
+      <name>node/6968159177</name>
+      <desc>description=Ansaugstelle im Feuerwehr Gerätehaus
+emergency=suction_point
+water_source=water_tank
+water_tank:volume=200000</desc>
+      <link href="http://osm.org/browse/node/6968159177"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5206409" lon="10.543865">
+      <name>node/6968159178</name>
+      <desc>emergency=suction_point
+water_source=pond
+water_volume=1500000</desc>
+      <link href="http://osm.org/browse/node/6968159178"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5191194" lon="10.5249759">
+      <name>node/6968159182</name>
+      <desc>emergency=suction_point
+water_source=pond</desc>
+      <link href="http://osm.org/browse/node/6968159182"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5203548" lon="10.5158076">
+      <name>node/6968170585</name>
+      <desc>emergency=suction_point
+water_source=pond</desc>
+      <link href="http://osm.org/browse/node/6968170585"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7911437" lon="10.9085119">
+      <name>node/6992156228</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/6992156228"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2433598" lon="10.7020009">
+      <name>node/7040351623</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7040351623"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2211465" lon="9.7715771">
+      <name>node/7172240559</name>
+      <desc>emergency=suction_point
+survey:date=2020-01-30</desc>
+      <link href="http://osm.org/browse/node/7172240559"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2341068" lon="9.7768383">
+      <name>node/7172529770</name>
+      <desc>emergency=suction_point
+survey:date=2020-01-30</desc>
+      <link href="http://osm.org/browse/node/7172529770"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.74987" lon="11.052121">
+      <name>node/7410992626</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7410992626"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2686411" lon="9.7571763">
+      <name>node/7430809217</name>
+      <desc>emergency=suction_point
+survey:date=2020-04-21</desc>
+      <link href="http://osm.org/browse/node/7430809217"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7056139" lon="10.266498">
+      <name>Stadtsee</name>
+      <desc>description=Ansaugen ringsum möglich
+emergency=suction_point
+name=Stadtsee
+survey:date=2020-04-23</desc>
+      <link href="http://osm.org/browse/node/7439109796"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.4194163" lon="11.0972129">
+      <name>node/7546104380</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7546104380"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7924631" lon="9.7299318">
+      <name>Aalbach Helmstadter Straße Nord</name>
+      <desc>emergency=suction_point
+name=Aalbach Helmstadter Straße Nord</desc>
+      <link href="http://osm.org/browse/node/7606524492"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7923869" lon="9.7298822">
+      <name>Aalbach Helmstadter Straße Süd</name>
+      <desc>emergency=suction_point
+name=Aalbach Helmstadter Straße Süd</desc>
+      <link href="http://osm.org/browse/node/7606530813"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7944941" lon="9.7351769">
+      <name>Aalbach Mühlweg Nord</name>
+      <desc>emergency=suction_point
+name=Aalbach Mühlweg Nord</desc>
+      <link href="http://osm.org/browse/node/7606533901"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7923921" lon="9.7222245">
+      <name>Aalbach Furtweg Nord</name>
+      <desc>emergency=suction_point
+name=Aalbach Furtweg Nord</desc>
+      <link href="http://osm.org/browse/node/7606534450"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7920545" lon="9.7115171">
+      <name>Aalbach Mülldeponie Süd</name>
+      <desc>emergency=suction_point
+name=Aalbach Mülldeponie Süd</desc>
+      <link href="http://osm.org/browse/node/7606536638"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7614933" lon="9.6680501">
+      <name>node/7633299278</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7633299278"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2391755" lon="10.3541974">
+      <name>Löschteich Fa. Fritz</name>
+      <desc>emergency=suction_point
+name=Löschteich Fa. Fritz
+survey:date=2020-06-20</desc>
+      <link href="http://osm.org/browse/node/7637704394"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2338346" lon="10.357902">
+      <name>Löschteich</name>
+      <desc>description=Hinter Fa. Pan Plast
+emergency=suction_point
+name=Löschteich
+survey:date=2020-06-21</desc>
+      <link href="http://osm.org/browse/node/7639652245"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2384662" lon="10.3654128">
+      <name>Gänsweiher</name>
+      <desc>emergency=suction_point
+name=Gänsweiher
+survey:date=2020-06-21</desc>
+      <link href="http://osm.org/browse/node/7639710710"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2305489" lon="10.3611422">
+      <name>Schulweiher</name>
+      <desc>emergency=suction_point
+name=Schulweiher
+survey:date=2020-06-21</desc>
+      <link href="http://osm.org/browse/node/7639711241"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2271108" lon="10.3769785">
+      <name>node/7639724043</name>
+      <desc>emergency=suction_point
+survey:date=2020-06-21</desc>
+      <link href="http://osm.org/browse/node/7639724043"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2349728" lon="10.3348039">
+      <name>Löschteich</name>
+      <desc>emergency=suction_point
+name=Löschteich</desc>
+      <link href="http://osm.org/browse/node/7640029823"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2388121" lon="10.3643938">
+      <name>Gänsweiher</name>
+      <desc>emergency=suction_point
+name=Gänsweiher</desc>
+      <link href="http://osm.org/browse/node/7640595068"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2381547" lon="10.3508285">
+      <name>node/7640622365</name>
+      <desc>description=Ansaugschacht
+emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7640622365"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2419723" lon="10.3411851">
+      <name>node/7661577427</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7661577427"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2684206" lon="10.4224876">
+      <name>node/7666425051</name>
+      <desc>emergency=suction_point
+survey:date=2020-06-29</desc>
+      <link href="http://osm.org/browse/node/7666425051"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2415707" lon="10.4476199">
+      <name>node/7666520657</name>
+      <desc>emergency=suction_point
+survey:date=2020-06-29</desc>
+      <link href="http://osm.org/browse/node/7666520657"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2494315" lon="10.3931071">
+      <name>node/7666542535</name>
+      <desc>emergency=suction_point
+survey:date=2020-06-29</desc>
+      <link href="http://osm.org/browse/node/7666542535"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7757147" lon="9.7351313">
+      <name>Regenrückhaltebecken A3</name>
+      <desc>emergency=suction_point
+name=Regenrückhaltebecken A3</desc>
+      <link href="http://osm.org/browse/node/7704457932"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6024346" lon="10.4386532">
+      <name>node/7744050280</name>
+      <desc>description=Bach
+emergency=suction_point
+survey:date=2020-07-24</desc>
+      <link href="http://osm.org/browse/node/7744050280"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.5972368" lon="10.4009789">
+      <name>node/7744081734</name>
+      <desc>description=Bach
+emergency=suction_point
+survey:date=2020-07-24</desc>
+      <link href="http://osm.org/browse/node/7744081734"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.597009" lon="10.4036263">
+      <name>node/7744082401</name>
+      <desc>description=Bach
+emergency=suction_point
+survey:date=2020-07-24</desc>
+      <link href="http://osm.org/browse/node/7744082401"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6018279" lon="10.4367542">
+      <name>node/7744088353</name>
+      <desc>description=Bach
+emergency=suction_point
+survey:date=2020-07-24</desc>
+      <link href="http://osm.org/browse/node/7744088353"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6008701" lon="10.4346541">
+      <name>node/7744089801</name>
+      <desc>description=Bach
+emergency=suction_point
+survey:date=2020-07-24</desc>
+      <link href="http://osm.org/browse/node/7744089801"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2215149" lon="10.382067">
+      <name>node/7757641352</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7757641352"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2253811" lon="10.378061">
+      <name>node/7757659176</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7757659176"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.2332485" lon="10.3304463">
+      <name>node/7757661160</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7757661160"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.4499717" lon="11.3460848">
+      <name>node/7834794075</name>
+      <desc>emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7834794075"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.4050973" lon="10.8583215">
+      <name>node/7940971819</name>
+      <desc>access=no
+barrier=gate
+emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7940971819"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.4060669" lon="10.8601788">
+      <name>node/7940971820</name>
+      <desc>access=no
+barrier=gate
+emergency=suction_point</desc>
+      <link href="http://osm.org/browse/node/7940971820"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6968391" lon="10.3274891">
+      <name>Saugstelle Weiher</name>
+      <desc>emergency=suction_point
+name=Saugstelle Weiher
+ref=ME_S03
+survey:date=2020-11-28</desc>
+      <link href="http://osm.org/browse/node/8174338802"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.6807796" lon="10.2843779">
+      <name>Saugstelle Bach</name>
+      <desc>description=nur mit Staublech!
+emergency=suction_point
+name=Saugstelle Bach
+ref=ME_S01
+survey:date=2020-11-28</desc>
+      <link href="http://osm.org/browse/node/8174339853"/>
+      <sym>suction_point</sym>
+    </wpt>
+    <wpt lat="49.7457986" lon="10.6905609">
+      <name>node/8195957910</name>
+      <desc>emergency=suction_point
+survey:date=2020-12-05</desc>
+      <link href="http://osm.org/browse/node/8195957910"/>
+      <sym>suction_point</sym>
+    </wpt>
+  </gpx>
