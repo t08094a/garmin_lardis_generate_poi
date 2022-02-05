@@ -1,0 +1,4 @@
+requests
+cairosvg
+PIL
+osm2geojson
